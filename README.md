@@ -6,6 +6,8 @@ Developed by **Facundo Aguilera Van Cauwlaert** for **Control of Mechanical Syst
 
 **[Read the technical report](Report%204%20-%20DC%20Motor.pdf)**
 
+**[Versión en español](README.es.md)**
+
 ## Project overview
 
 The objective is to regulate the angular position of a mechanical load through the motor armature voltage. The model accounts for armature resistance and inductance, motor torque, back electromotive force, mechanical inertia, damping, spring stiffness and linearized gravity effects.
